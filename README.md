@@ -1,1 +1,2 @@
-# Euro-Skin-osu-
+# Euro Skin ## (for osu!)
+##Made by AkaHusky24
