@@ -1,7 +1,7 @@
 # Euro Skin
 ##### Made by AkaHusky24
-###### (v.0.3-alpha)
-## [Download](https://github.com/AkaHusky24/Euro-Skin-osu/releases/latest) || [Mirror](https://drive.google.com/file/d/1PR7YvR67l_yL9KoK8KCUxGyTpwQ-BZw_/view?usp=sharing)
+###### (v.0.4-alpha)
+## [Download](https://github.com/AkaHusky24/Euro-Skin-osu/releases/latest) || [Mirror](https://drive.google.com/file/d/1i3R0Wg-T74s_ZBcY8q22zt1w-zHSeLJo/view?usp=sharing)
 
 ## How to download?
 ### Using GitHub
@@ -14,3 +14,4 @@
 ## How to install?
 1. Download 'Euro Skin I.osk'.
 2. Open the file or put the file into '%localappdata%\osu!\skins\' and restart osu!.
+3. In settings, in skin tab, click ignore all skins in beatamps.
