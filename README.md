@@ -1,7 +1,7 @@
 # Euro Skin
 ##### Made by AkaHusky24
-###### (v.0.2-alpha)
-## [Download](https://github.com/AkaHusky24/Euro-Skin-osu/releases/tag/0.2-alpha) || [Mirror](https://drive.google.com/file/d/12XHcqBaxqr8McEU9Gb2-CxRsZ7Y6_yZR/view?usp=sharing)
+###### (v.0.3-alpha)
+## [Download](github.com/AkaHusky24/Euro-Skin-osu/releases/latest) || [Mirror](https://drive.google.com/file/d/1PR7YvR67l_yL9KoK8KCUxGyTpwQ-BZw_/view?usp=sharing)
 
 ## How to download?
 ### Using GitHub
@@ -13,4 +13,4 @@
 
 ## How to install?
 1. Download 'Euro Skin I.osk'.
-2. Open the file or put the file into '%localappdata%\osu!\skins\'.
+2. Open the file or put the file into '%localappdata%\osu!\skins\' and restart osu!.
