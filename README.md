@@ -1,7 +1,7 @@
 # Euro Skin
 ##### Made by AkaHusky24
-###### (v.1.1.0)
-## [Download](https://github.com/AkaHusky24/Euro-Skin-osu/releases/latest) || [Mirror](https://drive.google.com/file/d/1a_o_GG2VmAR6iUl0kQPdjpgQVu22imxv/view?usp=sharing)
+###### (v.1.1.2)
+## [Download](https://github.com/AkaHusky24/Euro-Skin-osu/releases/latest) || [Mirror](https://drive.google.com/file/d/1B0tLndqe9Z8ZaoMeue1P8xBEjBxfkydj/view?usp=sharing)
 
 ## How to download?
 ### Using GitHub
